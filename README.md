@@ -1,9 +1,12 @@
-# KsnuPopupRemover
+# ~~KsnuPopupRemover~~
 
 군산대학교 이클래스에서 온라인 강의시 나타나는 진행확인 팝업을 자동으로 클릭하는 브라우저 확장 매크로입니다.
 <br><br><br>
-<b> *** 2023년 7월 1일 기준으로 Ungoogled Chromium과 Firefox에서 정상 작동을 확인했으나, 본인이 졸업함에 따라 v1.2를 최종 버전으로 추후 업데이트는 제공되지 않습니다. </b>
+<b> ~~2023년 7월 1일 기준으로 Ungoogled Chromium과 Firefox에서 정상 작동을 확인했으나, 본인이 졸업함에 따라 v1.2를 최종 버전으로 추후 업데이트는 제공되지 않습니다.~~ </b>
 <br><br><br>
+<b> 현재 <a href="https://github.com/p-sw/KsnuPopupRemover">p-sw/KsnuPopupRemover</a> 레포지토리에서 유지보수되고 있습니다. </b>
+
+
 ## 설치 및 활성화 방법 (MS Edge 기준)
 
 1. <a href="https://github.com/antibiotics11/KsnuPopupRemover/releases/tag/v1.2">최신 버전</a>의 소스 파일(.zip) 다운로드 및 압축 해제
